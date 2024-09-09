@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is just a sample file for learning git
+=======
+this is just a sample file for
+>>>>>>> newbranch2
